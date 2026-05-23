@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/w4ss4/goal-siren-firmware/main/alert-1.0.1.bin",
-  "notes": "Added new alarm patterns: OLÉ, Oh Canada, Let's Go Habs Go, etc."
+  "version": "1.2.0",
+  "url": "https://raw.githubusercontent.com/w4ss4/goal-siren-firmware/main/alert-1.2.0.bin",
+  "notes": "v1.2.0 - Power play indicator, days since cup counter, NHL scoreboard, live clock display, watchdog timer, retry logic, event log"
 }
