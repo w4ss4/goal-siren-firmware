@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://raw.githubusercontent.com/w4ss4/goal-siren-firmware/main/alert-1.0.1.bin",
-  "notes": "Initial release - hockey siren with web UI, OTA updates, goal scorer detection"
+  "notes": "Test update — bumped version"
 }
